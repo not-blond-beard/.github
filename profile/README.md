@@ -1,13 +1,13 @@
 # 🧔🏼 Blond Beard 
- Hi there 👋!
 
-We are a small Unity game development team that gathered to make fun games. 😎
+Greetings 👋!
 
-All of our team members are beginners who are not familiar with game development.
-However, even if it is clumsy and slow, it is steadily developing and enjoying game production.
+We are a team of Blockchain game developers who have come together to create entertaining games. 😎
 
-Blond Beard's final goal is to produce a 🦾 **fully blockchain game**.🦿
+Although all of our team members are new to game development, we are determined to improve and enjoy the process of game production.
 
-Every code is managed as an 📂 open source. 
+Our ultimate goal is to develop a 🦾 **fully blockchain-based game**.🦿
 
-There is still a lot of content in development, but contribution is always welcome, so please take good care of us! 👊🏻
+We manage all of our code as 📂 open source and welcome contributions from others.
+
+We would appreciate your support and encouragement as we continue to grow! 👊🏻
